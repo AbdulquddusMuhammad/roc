@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/roc/static/css/main.e6c13ad2.css",
-    "main.js": "/roc/static/js/main.41e81fea.js",
+    "main.js": "/roc/static/js/main.535fbb46.js",
     "static/js/453.fd304443.chunk.js": "/roc/static/js/453.fd304443.chunk.js",
     "index.html": "/roc/index.html",
     "main.e6c13ad2.css.map": "/roc/static/css/main.e6c13ad2.css.map",
-    "main.41e81fea.js.map": "/roc/static/js/main.41e81fea.js.map",
+    "main.535fbb46.js.map": "/roc/static/js/main.535fbb46.js.map",
     "453.fd304443.chunk.js.map": "/roc/static/js/453.fd304443.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.41e81fea.js"
+    "static/js/main.535fbb46.js"
   ]
 }
