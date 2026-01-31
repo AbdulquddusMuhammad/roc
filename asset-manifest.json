@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AbdulquddusMuhammad/roc.git/static/css/main.e6c13ad2.css",
+    "main.js": "/AbdulquddusMuhammad/roc.git/static/js/main.d63f9b6b.js",
+    "static/js/453.fd304443.chunk.js": "/AbdulquddusMuhammad/roc.git/static/js/453.fd304443.chunk.js",
+    "index.html": "/AbdulquddusMuhammad/roc.git/index.html",
+    "main.e6c13ad2.css.map": "/AbdulquddusMuhammad/roc.git/static/css/main.e6c13ad2.css.map",
+    "main.d63f9b6b.js.map": "/AbdulquddusMuhammad/roc.git/static/js/main.d63f9b6b.js.map",
+    "453.fd304443.chunk.js.map": "/AbdulquddusMuhammad/roc.git/static/js/453.fd304443.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.d63f9b6b.js"
+  ]
+}
